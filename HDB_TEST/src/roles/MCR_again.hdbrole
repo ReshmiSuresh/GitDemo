@@ -8,7 +8,7 @@
 		    			  "INSERT",
 		    			  "EXECUTE",
 		    			  "UPDATE",
-		    			  "CREATE TEMPORARY TABLE"
+		    			  "CREATE TABLE"
 		   ]
 		}]
 		
